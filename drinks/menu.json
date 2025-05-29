@@ -1,0 +1,247 @@
+{
+  "categories": [
+    {
+      "name": "Mojitos",
+      "pre": "Mojito",
+      "items": [
+        {
+          "name": "Blue",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Framboise",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Fraise",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Ananas",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Passion Fruit",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Blueberry",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Energétique (Redbull)",
+          "price": 20,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "pre": "Jus",
+      "items": [
+        {
+          "name": "Citronnade",
+          "price": 10,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Lemon mint",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Fraise",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Lait de poule",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Kiwi",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Mangue",
+          "price": 12,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Cocktail (Fraise - Framboise - Fruit des bois)",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Coffee",
+      "pre": "",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Allongé",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Americano",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Café turc",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Cappucin",
+          "price": 6,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Café crème",
+          "price": 7,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Café spécial",
+          "price": 8,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Iced coffee",
+          "price": 10,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Frappuccino (...)",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "pre": "",
+      "items": [
+        {
+          "name": "Boisson Gazeuse",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Redbull",
+          "price": 10,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chicha",
+      "pre": "Chicha",
+      "items": [
+        {
+          "name": "Love",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Sheikh money",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Pomme",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Raisin",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Menthe",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Blueberry",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Lemon",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Pêche",
+          "price": 30,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tobaco",
+      "pre": "Tobaco",
+      "items": [
+        {
+          "name": "Marlboro",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Camel bleu",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Karelia Slims",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "pre": "",
+      "items": [
+        {
+          "name": "Chips",
+          "price": 8,
+          "image": "../assets/images/service-3.jpg"
+        },
+        {
+          "name": "Biscuit",
+          "price": 5,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "pre": "",
+      "items": [
+        {
+          "name": "Cheesecake",
+          "price": 15,
+          "image": "../assets/images/service-3.jpg"
+        }
+      ]
+    }
+  ]
+}
