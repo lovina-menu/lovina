@@ -7,37 +7,37 @@
         {
           "name": "Blue",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoBlue.jpg"
         },
         {
           "name": "Framboise",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoFramb.jpg"
         },
         {
           "name": "Fraise",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoFraise.jpg"
         },
         {
           "name": "Ananas",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoAnanas.jpg"
         },
         {
           "name": "Passion Fruit",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoPassion.jpg"
         },
         {
           "name": "Blueberry",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/mojitoBlueberry.jpg"
         },
         {
           "name": "Energétique (Redbull)",
           "price": 20,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/redbull.jpg"
         }
       ]
     },
@@ -48,37 +48,37 @@
         {
           "name": "Citronnade",
           "price": 10,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/citron.jpeg"
         },
         {
           "name": "Lemon mint",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusLemon.jpg"
         },
         {
           "name": "Fraise",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusFraise.jpeg"
         },
         {
           "name": "Lait de poule",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusLait.jpg"
         },
         {
           "name": "Kiwi",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusKiwi.jpeg"
         },
         {
           "name": "Mangue",
           "price": 12,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusMangue.jpeg"
         },
         {
           "name": "Cocktail (Fraise - Framboise - Fruit des bois)",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/jusCocktail.jpg"
         }
       ]
     },
@@ -89,47 +89,47 @@
         {
           "name": "Espresso",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/espresso.jpg"
         },
         {
           "name": "Allongé",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/allonge.jpg"
         },
         {
           "name": "Americano",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/americano.jpg"
         },
         {
           "name": "Café turc",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/cafeTurc.jpg"
         },
         {
           "name": "Cappucin",
           "price": 6,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/capucin.avif"
         },
         {
           "name": "Café crème",
           "price": 7,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/cafeCreme.jpeg"
         },
         {
           "name": "Café spécial",
           "price": 8,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/cafeSpec.jpeg"
         },
         {
           "name": "Iced coffee",
           "price": 10,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/icedCoff.jpg"
         },
         {
-          "name": "Frappuccino (...)",
+          "name": "Frappuccino",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/frapp.jpg"
         }
       ]
     },
@@ -140,12 +140,12 @@
         {
           "name": "Boisson Gazeuse",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/gaz.jpeg"
         },
         {
           "name": "Redbull",
           "price": 10,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/redbull.jpg"
         }
       ]
     },
@@ -156,42 +156,42 @@
         {
           "name": "Love",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Sheikh money",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Pomme",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Raisin",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Menthe",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Blueberry",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Lemon",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         },
         {
           "name": "Pêche",
           "price": 30,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chicha.jpg"
         }
       ]
     },
@@ -202,17 +202,17 @@
         {
           "name": "Marlboro",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/marl.jpg"
         },
         {
           "name": "Camel bleu",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/camel.jpg"
         },
         {
           "name": "Karelia Slims",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/slims.png"
         }
       ]
     },
@@ -223,12 +223,12 @@
         {
           "name": "Chips",
           "price": 8,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/chips.jpeg"
         },
         {
           "name": "Biscuit",
           "price": 5,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/bisc.jpeg"
         }
       ]
     },
@@ -239,7 +239,7 @@
         {
           "name": "Cheesecake",
           "price": 15,
-          "image": "../assets/images/service-3.jpg"
+          "image": "./images/cake.jpeg"
         }
       ]
     }
