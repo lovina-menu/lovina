@@ -7,12 +7,12 @@
         {
           "name": "Balade de 30 min",
           "price": 150,
-          "image": "../assets/images/menu-4.png"
+          "image": "./balade30.png"
         },
         {
           "name": "Balade de 60 min",
           "price": 250,
-          "image": "../assets/images/menu-4.png"
+          "image": "./balade60.png"
         }
       ]
     }

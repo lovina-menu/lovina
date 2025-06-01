@@ -61,21 +61,6 @@
           "image": "../assets/images/menu-4.png"
         }
       ]
-    },
-    {
-      "name": "Nos forfaits balade en mer (8 personnes max)",
-      "items": [
-        {
-          "name": "Balade de 30 min",
-          "price": 150,
-          "image": "../assets/images/menu-4.png"
-        },
-        {
-          "name": "Balade de 60 min",
-          "price": 250,
-          "image": "../assets/images/menu-4.png"
-        }
-      ]
     }
   ]
 }
