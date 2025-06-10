@@ -220,7 +220,7 @@
                 Come with family & feel the joy of the Lovina experience
               </p>
 
-              <a href="#" class="btn btn-primary slider-reveal">
+              <a href="#menu-container" class="btn btn-primary slider-reveal">
                 <span class="text text-1">View Our Menu</span>
 
                 <span class="text text-2" aria-hidden="true"
@@ -331,6 +331,7 @@
         <section
           class="section service bg-black-10 text-center"
           aria-label="service"
+          id="menu-container"
         >
           <div class="container">
             <p class="section-subtitle label-2">Explore our Variety of Flavors</p>
@@ -1418,5 +1419,20 @@
       nomodule
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
+    <script>
+      document.querySelector('a[href="#menu-container"]').addEventListener('click', function (e) {
+          e.preventDefault(); // Prevent default anchor click behavior
+  
+          const targetId = this.getAttribute('href').substring(1); // Get the target ID
+          const targetElement = document.getElementById(targetId);
+  
+          if (targetElement) {
+              window.scrollTo({
+                  top: targetElement.offsetTop,
+                  behavior: 'smooth' // Smooth scroll
+              });
+          }
+      });
+  </script>
   </body>
 </html>
