@@ -7,27 +7,27 @@
         {
           "name": "Plateau pour 4 personnes",
           "price": 80,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/fruitMer4.png"
         },
         {
           "name": "Plateau pour 6 personnes",
           "price": 120,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/fruitMer6.png"
         },
         {
           "name": "Plateau pour 8 personnes",
           "price": 150,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/fruitMer8.png"
         },
         {
           "name": "Plateau pour 10 personnes",
           "price": 200,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/fruitMer10.png"
         },
         {
           "name": "Plateau Calamars dorés",
           "price": "Selon nombres des pièces - *",
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/calamar.jpg"
         }
       ]
     },
@@ -38,17 +38,17 @@
         {
           "name": "Pâtes à la sauce rouge",
           "price": 50,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/spaghRouge.png"
         },
         {
           "name": "Pâtes à la sauce rosée",
           "price": 55,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/spaghRose.jpg"
         },
         {
           "name": "Pâtes à la sauce Blanche",
           "price": 60,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/spaghBlanche.jpeg"
         }
       ]
     },
@@ -58,7 +58,7 @@
         {
           "name": "Complet daurade, Salade verte, Salade Mechouia, Fruit de saison, Thé à la menthe",
           "price": 60,
-          "image": "../assets/images/menu-4.png"
+          "image": "./images/dorade.jpeg"
         }
       ]
     }
