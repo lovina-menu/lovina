@@ -6,32 +6,32 @@
       "items": [
         {
           "name": "Blue",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoBlue.jpg"
         },
         {
           "name": "Framboise",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoFramb.jpg"
         },
         {
           "name": "Fraise",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoFraise.jpg"
         },
         {
           "name": "Ananas",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoAnanas.jpg"
         },
         {
           "name": "Passion Fruit",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoPassion.jpg"
         },
         {
           "name": "Blueberry",
-          "price": 12,
+          "price": 15,
           "image": "./images/mojitoBlueberry.jpg"
         },
         {
@@ -210,9 +210,9 @@
           "image": "./images/camel.jpg"
         },
         {
-          "name": "Karelia Slims",
+          "name": "Marlboro Touch",
           "price": 15,
-          "image": "./images/slims.png"
+          "image": "./images/touch.jpeg"
         }
       ]
     },
