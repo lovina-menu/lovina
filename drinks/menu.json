@@ -35,9 +35,9 @@
           "image": "./images/mojitoBlueberry.jpg"
         },
         {
-          "name": "Energétique (Redbull)",
+          "name": "Redbull",
           "price": 20,
-          "image": "./images/redbull.jpg"
+          "image": "./images/mojitoredbull.jpg"
         }
       ]
     },
@@ -127,6 +127,11 @@
           "image": "./images/icedCoff.jpg"
         },
         {
+          "name": "Iced Americano",
+          "price": 10,
+          "image": "./images/icedAmericano.jpg"
+        },
+        {
           "name": "Frappuccino",
           "price": 15,
           "image": "./images/frapp.jpg"
@@ -146,52 +151,6 @@
           "name": "Redbull",
           "price": 10,
           "image": "./images/redbull.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Chicha",
-      "pre": "Chicha",
-      "items": [
-        {
-          "name": "Love",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Sheikh money",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Pomme",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Raisin",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Menthe",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Blueberry",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Lemon",
-          "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Pêche",
-          "price": 30,
-          "image": "./images/chicha.jpg"
         }
       ]
     },
@@ -229,6 +188,11 @@
           "name": "Biscuit",
           "price": 5,
           "image": "./images/bisc.jpeg"
+        },
+        {
+          "name": "Mix Fruits secs 100g",
+          "price": 10,
+          "image": "./images/sec.jpeg"
         }
       ]
     },
