@@ -132,9 +132,39 @@
           "image": "./images/icedAmericano.jpg"
         },
         {
-          "name": "Frappuccino",
-          "price": 15,
-          "image": "./images/frapp.jpg"
+          "name": "Pistachio Latte",
+          "price": 18,
+          "image": "./images/pisLatte.jpg"
+        },
+        {
+          "name": "Iced Pistachio Latte",
+          "price": 18,
+          "image": "./images/IcedPisLatte.jpg"
+        },
+        {
+          "name": "Hazelnut Latte",
+          "price": 18,
+          "image": "./images/hazelLatte.jpg"
+        },
+        {
+          "name": "Iced Hazelnut Latte",
+          "price": 18,
+          "image": "./images/icedHazelLatte.jpg"
+        },
+        {
+          "name": "Frappuccino Caramel",
+          "price": 18,
+          "image": "./images/frappCaramel.jpg"
+        },
+        {
+          "name": "Frappuccino Pistachio",
+          "price": 18,
+          "image": "./images/frappPistachio.jpg"
+        },
+        {
+          "name": "Frappuccino Hazelnut",
+          "price": 18,
+          "image": "./images/frappHazel.jpg"
         }
       ]
     },

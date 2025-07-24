@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "name": "Chicha",
+      "pre": "Chicha",
+      "items": [
+        {
+          "name": "Love",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Sheikh money",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Pomme",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Raisin",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Menthe",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Blueberry",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Lemon",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Pêche",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Hawai",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Raisin menthe",
+          "price": 30,
+          "image": "./images/chicha.jpg"
+        },
+        {
+          "name": "Vip Kaloud",
+          "price": 40,
+          "image": "./images/kaloud.jpg"
+        }
+      ]
+    }
+  ]
+}
