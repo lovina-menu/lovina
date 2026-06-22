@@ -87,12 +87,17 @@
       "pre": "",
       "items": [
         {
-          "name": "Espresso",
+          "name": "Single Espresso",
           "price": 5,
           "image": "./images/espresso.jpg"
         },
         {
-          "name": "Allongé",
+          "name": "Doppio (double espresso)",
+          "price": 6,
+          "image": "./images/espresso.jpg"
+        },
+        {
+          "name": "Espresso lungo (café allongé)",
           "price": 5,
           "image": "./images/allonge.jpg"
         },
@@ -102,34 +107,35 @@
           "image": "./images/americano.jpg"
         },
         {
-          "name": "Café turc",
+          "name": "Turkish Coffee",
           "price": 5,
           "image": "./images/cafeTurc.jpg"
         },
         {
-          "name": "Cappucin",
+          "name": "Cortado (café cappucin)",
           "price": 6,
           "image": "./images/capucin.avif"
         },
         {
-          "name": "Café crème",
+          "name": "Cappuccino (café direct)",
           "price": 7,
           "image": "./images/cafeCreme.jpeg"
         },
         {
-          "name": "Café spécial",
+          "name": "Affogato",
+          "price": 10,
+          "description": "A single shot of espresso with a scoop of Ice cream",
+          "image": "./images/icedCoff.jpg"
+        },
+        {
+          "name": "Café Special",
           "price": 8,
           "image": "./images/cafeSpec.jpeg"
         },
         {
-          "name": "Iced coffee",
-          "price": 10,
-          "image": "./images/icedCoff.jpg"
-        },
-        {
-          "name": "Iced Americano",
-          "price": 10,
-          "image": "./images/icedAmericano.jpg"
+          "name": "Caramel Latte",
+          "price": 15,
+          "image": "./images/cafeCreme.jpeg"
         },
         {
           "name": "Pistachio Latte",
@@ -137,14 +143,29 @@
           "image": "./images/pisLatte.jpg"
         },
         {
-          "name": "Iced Pistachio Latte",
-          "price": 18,
-          "image": "./images/icedPisLatte.jpg"
-        },
-        {
           "name": "Hazelnut Latte",
           "price": 18,
           "image": "./images/hazelLatte.jpg"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 10,
+          "image": "./images/icedAmericano.jpg"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 12,
+          "image": "./images/icedCoff.jpg"
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": 15,
+          "image": "./images/icedCoff.jpg"
+        },
+        {
+          "name": "Iced Pistachio Latte",
+          "price": 18,
+          "image": "./images/icedPisLatte.jpg"
         },
         {
           "name": "Iced Hazelnut Latte",
@@ -152,19 +173,36 @@
           "image": "./images/icedHazelLatte.jpg"
         },
         {
-          "name": "Frappuccino Caramel",
+          "name": "Caramel Frappuccino",
           "price": 18,
           "image": "./images/frappCaramel.jpg"
         },
         {
-          "name": "Frappuccino Pistachio",
+          "name": "Nutella Frappuccino",
+          "price": 18,
+          "image": "./images/frapp.jpg"
+        },
+        {
+          "name": "Pistachio Frappuccino",
           "price": 18,
           "image": "./images/frappPistachio.jpg"
         },
         {
-          "name": "Frappuccino Hazelnut",
+          "name": "Hazelnut Frappuccino",
           "price": 18,
           "image": "./images/frappHazel.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Granita",
+      "pre": "",
+      "items": [
+        {
+          "name": "Fresh Granita",
+          "price": 15,
+          "description": "Discover today’s icy, refreshing creation.",
+          "image": "./images/granita.jpg"
         }
       ]
     },
@@ -181,6 +219,11 @@
           "name": "Redbull",
           "price": 10,
           "image": "./images/redbull.jpg"
+        },
+        {
+          "name": "Monster",
+          "price": 20,
+          "image": "./images/monster.jpg"
         }
       ]
     },
@@ -189,19 +232,14 @@
       "pre": "Tobaco",
       "items": [
         {
-          "name": "Marlboro",
-          "price": 15,
-          "image": "./images/marl.jpg"
+          "name": "Marlboro Light",
+          "price": 20,
+          "image": "./images/marlboro.jpeg"
         },
         {
           "name": "Camel bleu",
-          "price": 15,
+          "price": 20,
           "image": "./images/camel.jpg"
-        },
-        {
-          "name": "Marlboro Touch",
-          "price": 15,
-          "image": "./images/touch.jpeg"
         }
       ]
     },
@@ -210,17 +248,22 @@
       "pre": "",
       "items": [
         {
-          "name": "Chips",
+          "name": "Potato chips",
           "price": 8,
           "image": "./images/chips.jpeg"
         },
         {
-          "name": "Biscuit",
+          "name": "Cookies",
           "price": 5,
           "image": "./images/bisc.jpeg"
         },
         {
-          "name": "Mix Fruits secs 100g",
+          "name": "Popcorn",
+          "price": 7,
+          "image": "./images/popcorn.jfif"
+        },
+        {
+          "name": "Mixed Nuts (100g)",
           "price": 10,
           "image": "./images/sec.jpeg"
         }
@@ -232,6 +275,7 @@
       "items": [
         {
           "name": "Cheesecake",
+          "description": "Come to the bar and choose your flavor!",
           "price": 15,
           "image": "./images/cake.jpeg"
         }

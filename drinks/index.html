@@ -403,6 +403,11 @@
                             : ""
                         }
                       </div>
+                      ${
+                        item.description
+                          ? `<p class="card-text label-1" style="color: var(--gold-crayola); font-style: italic; text-transform: none; margin-block-end: 8px;">${item.description}</p>`
+                          : ""
+                      }
                       <p class="card-text label-1">${category.pre} ${
                 item.name
               }</p>

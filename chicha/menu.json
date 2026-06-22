@@ -7,56 +7,51 @@
         {
           "name": "Love",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Sheikh money",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Pomme",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Raisin",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Menthe",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Blueberry",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Lemon",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Pêche",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Hawai",
           "price": 30,
-          "image": "./images/chicha.jpg"
+          "image": "./images/kaloud.jpg"
         },
         {
           "name": "Raisin menthe",
           "price": 30,
-          "image": "./images/chicha.jpg"
-        },
-        {
-          "name": "Vip Kaloud",
-          "price": 40,
           "image": "./images/kaloud.jpg"
         }
       ]
