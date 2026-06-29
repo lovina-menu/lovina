@@ -1,84 +1,160 @@
 {
   "categories": [
     {
-      "name": "Mojitos",
-      "pre": "Mojito",
+      "name": "Mojito",
+      "pre": "",
       "items": [
         {
-          "name": "Blue",
+          "name": "Classic Mojito",
           "price": 15,
-          "image": "./images/mojitoBlue.jpg"
-        },
-        {
-          "name": "Framboise",
-          "price": 15,
-          "image": "./images/mojitoFramb.jpg"
-        },
-        {
-          "name": "Fraise",
-          "price": 15,
-          "image": "./images/mojitoFraise.jpg"
-        },
-        {
-          "name": "Ananas",
-          "price": 15,
-          "image": "./images/mojitoAnanas.jpg"
-        },
-        {
-          "name": "Passion Fruit",
-          "price": 15,
+          "description": "Fresh mint, lime, and Mojito syrup.",
           "image": "./images/mojitoPassion.jpg"
         },
         {
-          "name": "Blueberry",
+          "name": "Strawberry Mojito (Pink Sunset)",
           "price": 15,
+          "description": "Strawberry syrup, fresh mint, lime.",
+          "image": "./images/mojitoFraise.jpg"
+        },
+        {
+          "name": "Watermelon Mojito (Watermelon Wave)",
+          "price": 15,
+          "description": "Watermelon syrup, fresh mint, lime.",
+          "image": "./images/mojitoFraise.jpg"
+        },
+        {
+          "name": "Pineapple Mojito (Island Pineapple)",
+          "price": 15,
+          "description": "Pineapple syrup, fresh mint, lime.",
+          "image": "./images/mojitoAnanas.jpg"
+        },
+        {
+          "name": "Passion Fruit Mojito (Tropical Passion)",
+          "price": 15,
+          "description": "Passion fruit syrup, fresh mint, lime.",
+          "image": "./images/mojitoPassion.jpg"
+        },
+        {
+          "name": "Raspberry Mojito (Berry Breeze)",
+          "price": 15,
+          "description": "Raspberry syrup, fresh mint, lime.",
+          "image": "./images/mojitoFramb.jpg"
+        },
+        {
+          "name": "Blue Mojito (Blue Lagoon)",
+          "price": 15,
+          "description": "Blue syrup, fresh mint, lime.",
+          "image": "./images/mojitoBlue.jpg"
+        },
+        {
+          "name": "Cherry Mojito (Cherry Paradise)",
+          "price": 15,
+          "description": "Cherry syrup, fresh mint, lime.",
           "image": "./images/mojitoBlueberry.jpg"
         },
         {
-          "name": "Redbull",
+          "name": "Energetic Mojito",
           "price": 20,
+          "description": "Fresh mint, lime, Mojito syrup, topped with Redbull.",
           "image": "./images/mojitoredbull.jpg"
         }
       ]
     },
     {
-      "name": "Jus",
-      "pre": "Jus",
+      "name": "Mocktails",
+      "pre": "",
       "items": [
         {
-          "name": "Citronnade",
+          "name": "Blue Hawaii",
+          "price": 20,
+          "description": "Pineapple juice , Orange juice, coconut, blue curaçao syrup",
+          "image": "./images/mockHawai.jpg"
+        },
+        {
+          "name": "Piña Colada",
+          "price": 20,
+          "description": "Pineapple juice, coconut, pineapple essence",
+          "image": "./images/pina.jfif"
+        },
+        {
+          "name": "Sweet Sunrise",
+          "price": 20,
+          "description": "Pineapple juice , raspberry, passion fruit syrup",
+          "image": "./images/sweetsun.jpg"
+        },
+        {
+          "name": "Pinky",
+          "price": 20,
+          "description": "Pineapple juice , cherry syrop, coconut",
+          "image": "./images/pinky.jpg"
+        },
+        {
+          "name": "Sex on the beach",
+          "price": 20,
+          "description": "Lemon juice , Orange juice, peach syrup, grenadine syrup",
+          "image": "./images/beach.jfif"
+        }
+      ]
+    },
+    {
+      "name": "Fresh Juice",
+      "pre": "",
+      "items": [
+        {
+          "name": "Lemon Juice",
           "price": 10,
+          "description": "Freshly squeezed lemons, water, and ice.",
           "image": "./images/citron.jpeg"
         },
         {
-          "name": "Lemon mint",
+          "name": "Lemon Mint Juice",
           "price": 12,
+          "description": "Fresh lemons, mint leaves, and crushed ice, all blended to perfection.",
           "image": "./images/jusLemon.jpg"
         },
         {
-          "name": "Fraise",
+          "name": "Strawberry Juice",
           "price": 12,
+          "description": "Fresh strawberries blended to perfection.",
           "image": "./images/jusFraise.jpeg"
         },
         {
-          "name": "Lait de poule",
-          "price": 12,
-          "image": "./images/jusLait.jpg"
-        },
-        {
-          "name": "Kiwi",
-          "price": 12,
-          "image": "./images/jusKiwi.jpeg"
-        },
-        {
-          "name": "Mangue",
-          "price": 12,
+          "name": "Mango Juice",
+          "price": 15,
+          "description": "Fresh mango blended to perfection.",
           "image": "./images/jusMangue.jpeg"
         },
         {
-          "name": "Cocktail (Fraise - Framboise - Fruit des bois)",
+          "name": "Kiwi banana Juice",
           "price": 15,
-          "image": "./images/jusCocktail.jpg"
+          "description": "Fresh kiwi and banana blended with ice.",
+          "image": "./images/jusKiwi.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Ice Tea",
+      "pre": "",
+      "items": [
+        {
+          "name": "Raspberry",
+          "price": 10,
+          "image": "./images/tearas.jpg"
+        },
+        {
+          "name": "Cherry",
+          "price": 10,
+          "image": "./images/teacherry.jpg"
+        },
+        {
+          "name": "Fruits",
+          "price": 10,
+          "image": "./images/teafruit.jpg"
+        },
+        {
+          "name": "Peach",
+          "price": 10,
+          "image": "./images/teapeach.jfif"
         }
       ]
     },
@@ -195,6 +271,24 @@
       ]
     },
     {
+      "name": "Milkshakes",
+      "pre": "",
+      "items": [
+        {
+          "name": "Nutella",
+          "price": 20,
+          "description": "Milk, ice cream, nutella chocolate chips, chocolate, topped with whipped cream.",
+          "image": "./images/milknut.jpg"
+        },
+        {
+          "name": "Pistachio",
+          "price": 25,
+          "description": "Milk, ice cream, pistachio spread, pistachio, topped with whipped cream.",
+          "image": "./images/milkpist.jpg"
+        }
+      ]
+    },
+    {
       "name": "Granita",
       "pre": "",
       "items": [
@@ -278,6 +372,12 @@
           "description": "Come to the bar and choose your flavor!",
           "price": 15,
           "image": "./images/cake.jpeg"
+        },
+        {
+          "name": "Ice cream",
+          "price": 10,
+          "description": "3 scoops of ice cream with the flavor of your choice!",
+          "image": "./images/icecream.jpg"
         }
       ]
     }

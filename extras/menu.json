@@ -61,6 +61,48 @@
           "image": "./images/dorade.jpeg"
         }
       ]
+    },
+    {
+      "name": "Charcuterie (par réservation)",
+      "pre": "",
+      "items": [
+        {
+          "name": "Planche de charcuterie pour 2 personnes",
+          "price": 50,
+          "description": "Trois Jambons, Trois fromages, Biscuits, olives, legumes et fruits.",
+          "image": "./images/filler.jpg"
+        },
+        {
+          "name": "Planche de charcuterie pour 4 personnes",
+          "price": 80,
+          "description": "Trois Jambons, Trois fromages, Biscuits, olives, legumes et fruits.",
+          "image": "./images/filler.jpg"
+        },
+        {
+          "name": "Planche de charcuterie pour 8 personnes",
+          "price": 120,
+          "description": "Trois Jambons, Trois fromages, Biscuits, olives, legumes et fruits.",
+          "image": "./images/filler.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Petit déjeuner (par réservation)",
+      "pre": "",
+      "items": [
+        {
+          "name": "Petit déjeuner pour 2 personnes",
+          "price": 60,
+          "description": "Planche de charcuterie pour 2 personnes, 2 cafés au choix, 2 jus, cake.",
+          "image": "./images/filler.jpg"
+        },
+        {
+          "name": "Petit déjeuner pour 4 personnes",
+          "price": 100,
+          "description": "Planche de charcuterie pour 4 personnes, 4 cafés au choix, 4 jus, cake.",
+          "image": "./images/filler.jpg"
+        }
+      ]
     }
   ]
 }
